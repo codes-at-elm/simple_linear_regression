@@ -3,4 +3,6 @@ Predicting teen birth rate per 1000 females 15 to 17 years old based on their po
 ## Algorithm
 Simple Linear Regression
 ## Libraries 
-pandas, matplotlib and skikit-learn. 
+- pandas
+- matplotlib
+- scikit-learn. 
